@@ -1,0 +1,18 @@
+body{
+    background-color: #ffffff;
+    font-family: 'roboto flex', sans-serif;
+}
+
+.text-excur{
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.cardImg{
+    height: 9rem;
+    margin-top: 2em;
+}
+
+.card{
+    margin-bottom: 2rem;
+}
